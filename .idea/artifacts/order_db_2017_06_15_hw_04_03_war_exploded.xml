@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="order-db_2017-06-15_hw_04-03:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/order_db_2017_06_15_hw_04_03_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="order-db_2017-06-15_hw_04-03/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="order-db_2017-06-15_hw_04-03" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.googlecode.json-simple:json-simple:1.1.1" />
+          <element id="library" level="project" name="Maven: javax.servlet:servlet-api:2.5" />
+          <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:6.0.6" />
+          <element id="library" level="project" name="Maven: org.glassfish:javax.servlet:3.0-b72" />
+          <element id="library" level="project" name="Maven: org.hamcrest:hamcrest-core:1.1" />
+          <element id="library" level="project" name="Maven: junit:junit:4.10" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
